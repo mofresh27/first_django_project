@@ -1,0 +1,1 @@
+var = "I am struggling on the last two concepts, hopefully I make it to the next phase"
